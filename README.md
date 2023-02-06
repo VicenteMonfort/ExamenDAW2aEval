@@ -9,9 +9,9 @@
 ## ENTREGA
 1.- Archivo **zip** del repositorio en GitHub
 2.- Como texto en linea:
-    a. **URL** del repositorio **PÚBLICO** en GitHub
-    b. **URL** de tu imagen de DockerHub 
-    
+    * **URL** del repositorio **PÚBLICO** en GitHub
+    * **URL** de tu imagen de DockerHub 
+
 ![This is an image][enana]
 
 
