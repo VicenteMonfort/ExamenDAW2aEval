@@ -1,4 +1,4 @@
-# Examen 2a evaluación de Despliegue de Aplicaciones Web de 2º DAW
+# Examen 2ª evaluación de Despliegue de Aplicaciones Web de 2º DAW
 ## INSTRUCCIONES
 ### 1.- Completad la clase `Enana.php` para que realice su cometido, explicado en los comentarios de la misma.
 ### 2.- Completad los test unitarios en `enanaTest.php` conforme a las especificaciones que se detallan en los comentarios.
@@ -12,7 +12,4 @@
 ####    * **URL** del repositorio **PÚBLICO** en GitHub
 ####    * **URL** de tu imagen de DockerHub 
 
-![This is an image][enana]
-
-
-[enana]: /assets/images/enana.png
+![This is an image](/assets/images/enana.png)
