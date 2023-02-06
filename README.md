@@ -12,4 +12,4 @@
 ####    a. **URL** del repositorio **PÚBLICO** en GitHub
 ####    b. **URL** de tu imagen de DockerHub 
 
-![This is an image](/enana.png)
+![This is an image](/enana.jpg)
